@@ -9,7 +9,7 @@
 
 ### Introduction
 
-**nf-core/rnaseq** is a bioinformatic analysis pipeline used for RNA sequencing data.
+**nf-core/rnaseq** is a bioinformatics analysis pipeline used for RNA sequencing data.
 
 The workflow processes raw data from
  FastQ inputs ([FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/),
